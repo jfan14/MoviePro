@@ -1,0 +1,127 @@
+{
+  "project_info": {
+    "project_number": "134956354292",
+    "firebase_url": "https://fir-demo-97ce1-default-rtdb.firebaseio.com",
+    "project_id": "fir-demo-97ce1",
+    "storage_bucket": "fir-demo-97ce1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:134956354292:android:bf557f68360e3caea92ca1",
+        "android_client_info": {
+          "package_name": "com.junfan.firebasedemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "134956354292-r0rg6g4qojl1cclgvip36fco91q400p2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBY3RquJh2vVqus_qMUy3prNFLan_NnVvM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "134956354292-r0rg6g4qojl1cclgvip36fco91q400p2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:134956354292:android:8bbc081ab8b7601aa92ca1",
+        "android_client_info": {
+          "package_name": "com.junfan.moviepro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "134956354292-r0rg6g4qojl1cclgvip36fco91q400p2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBY3RquJh2vVqus_qMUy3prNFLan_NnVvM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "134956354292-r0rg6g4qojl1cclgvip36fco91q400p2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:134956354292:android:11ad564934619e8ea92ca1",
+        "android_client_info": {
+          "package_name": "com.junfan.realtimedatabase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "134956354292-r0rg6g4qojl1cclgvip36fco91q400p2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBY3RquJh2vVqus_qMUy3prNFLan_NnVvM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "134956354292-r0rg6g4qojl1cclgvip36fco91q400p2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:134956354292:android:26218af5c95526d2a92ca1",
+        "android_client_info": {
+          "package_name": "com.junfan.selfiemaster"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "134956354292-r0rg6g4qojl1cclgvip36fco91q400p2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBY3RquJh2vVqus_qMUy3prNFLan_NnVvM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "134956354292-r0rg6g4qojl1cclgvip36fco91q400p2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
